@@ -41,13 +41,3 @@
 <a href="https://twitter.com/despossivel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="despossivel" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/despossivel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="despossivel" height="20" width="20" /></a>
 </p>
-
-
-## 😇 My Github Stats:
-
-[![Visits Badge](https://badges.pufler.dev/visits/despossivel/despossivel?style=for-the-badge)](https://github.com/despossivel/despossivel)
-![Repos Badge](https://badges.pufler.dev/repos/csorlandi?style=for-the-badge)
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=despossivel&show_icons=true&theme=algolia&line_height=27">
-</p>
