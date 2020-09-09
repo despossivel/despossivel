@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Compra Certa - Corebiz](https://www.compracerta.com.br/)
 
-- 💬 Ask me about **React, PHP, CSS**
+- 💬 Ask me about **React, PHP, Nodejs, CSS**
 
 - 📫 How to reach me **mattbmoller@gmail.com**
 
