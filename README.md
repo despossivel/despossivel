@@ -2,9 +2,9 @@
 <h3 align="center">Full-stack developer, Devops and cyber security enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=despossivel" alt="despossivel" /> </p>
 
-- 🔭 I’m currently working on [Corebiz](https://www.corebiz.ag/)
+- 🔭 I’m currently working on [Puravida Prime](https://puravidaprime.com.br/)
 
-- 💬 Ask me about **React, PHP, Nodejs, CSS, SASS**
+- 💬 Ask me about **Hacking, Devops, Cloud, React, PHP, Nodejs, CSS, SASS**
 
 - 📫 How to reach me **mattbmoller@gmail.com**
 
