@@ -5,9 +5,7 @@
 - 🔭 I’m currently working on [Act Digital](https://actdigital.com/pt)
 
 - 💬 Ask me about **Hacking, Devops, Cloud, React, PHP, Nodejs, CSS, SASS**
-
-- 📫 How to reach me **mattbmoller@gmail.com**
-
+ 
 - ⚡ Fun fact **I make coffee and play tennis**
 
 
