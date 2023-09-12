@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/kubernetes%20-%23323330.svg?&style=for-the-badge&logo=kubernetes&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/github%20-%23323330.svg?&style=for-the-badge&logo=github&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/gitflow%20-%23323330.svg?&style=for-the-badge&logo=gitflow&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/github_actions%20-%2320232a.svg?&style=for-the-badge&logo=github&logoColor=%2361DAFB"/>
  </p>
 
 <p align="center">
