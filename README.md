@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/mysql%20-%23323330.svg?&style=for-the-badge&logo=mysql&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/postgresql%20-%23323330.svg?&style=for-the-badge&logo=postgresql&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/rabbitmq%20-%23323330.svg?&style=for-the-badge&logo=rabbitmq&logoColor=%2361DAFB"/>
-   <img src="https://img.shields.io/badge/go_lang%20-%23323330.svg?&style=for-the-badge&logo=go_lang&logoColor=%2361DAFB"/>
+   <img src="https://img.shields.io/badge/go_lang%20-%23323330.svg?&style=for-the-badge&logo=golang&logoColor=%2361DAFB"/>
      <img src="https://img.shields.io/badge/python%20-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=%2361DAFB"/> 
  </p>
  
