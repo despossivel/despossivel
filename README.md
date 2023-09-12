@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Matheus Brito</h1>
 <h3 align="center">Full-stack developer, Devops and cyber security enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=despossivel" alt="despossivel" /> </p>
-
-- 🔭 I’m currently working on [Act Digital](https://actdigital.com/pt)
-
-- 💬 Ask me about **Hacking, Devops, Cloud, React, PHP, Nodejs, CSS, SASS**
  
-- ⚡ Fun fact **I make coffee and play tennis**
+
+- 💬 Ask me about **Hacking, Devops, Cloud, PHP, Golang, Python,Javascript, React, Nodejs, CSS, SASS**
+ 
+- ⚡ Fun fact **Given mission is accomplished mission**
 
 
 # 🛠 Front-end Stack
