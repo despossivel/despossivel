@@ -20,15 +20,19 @@
  
  # 🛠 Back-end Stack
  <p>
-  <img src="https://img.shields.io/badge/nodejs%20-%23323330.svg?&style=for-the-badge&logo=nodejs&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/php%20-%23323330.svg?&style=for-the-badge&logo=php&logoColor=%2361DAFB"/>
+    <img src="https://img.shields.io/badge/php%20-%23323330.svg?&style=for-the-badge&logo=php&logoColor=%2361DAFB"/>
+    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%2361DAFB"/>
+    <img src="https://img.shields.io/badge/nodejs%20-%23323330.svg?&style=for-the-badge&logo=nodejs&logoColor=%2361DAFB"/>
+    <img src="https://img.shields.io/badge/python%20-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=%2361DAFB"/> 
+    <img src="https://img.shields.io/badge/go_lang%20-%23323330.svg?&style=for-the-badge&logo=golang&logoColor=%2361DAFB"/>
+  
   <img src="https://img.shields.io/badge/mongodb%20-%23323330.svg?&style=for-the-badge&logo=mongodb&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/mysql%20-%23323330.svg?&style=for-the-badge&logo=mysql&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/postgresql%20-%23323330.svg?&style=for-the-badge&logo=postgresql&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/rabbitmq%20-%23323330.svg?&style=for-the-badge&logo=rabbitmq&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/kafka%20-%2320232a.svg?&style=for-the-badge&logo=apache&logoColor=%2361DAFB"/> 
-   <img src="https://img.shields.io/badge/go_lang%20-%23323330.svg?&style=for-the-badge&logo=golang&logoColor=%2361DAFB"/>
-     <img src="https://img.shields.io/badge/python%20-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=%2361DAFB"/> 
+   
+     
  </p>
  
  # 🛠 DevOps Stack
