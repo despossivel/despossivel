@@ -21,7 +21,7 @@
  # 🛠 Back-end Stack
  <p>
     <img src="https://img.shields.io/badge/php%20-%23323330.svg?&style=for-the-badge&logo=php&logoColor=%2361DAFB"/>
-    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%2361DAFB"/>
     <img src="https://img.shields.io/badge/nodejs%20-%23323330.svg?&style=for-the-badge&logo=nodejs&logoColor=%2361DAFB"/>
     <img src="https://img.shields.io/badge/python%20-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=%2361DAFB"/> 
     <img src="https://img.shields.io/badge/go_lang%20-%23323330.svg?&style=for-the-badge&logo=golang&logoColor=%2361DAFB"/>
